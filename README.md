@@ -2,9 +2,9 @@
 <h3 >自强不息 백엔드 개발자를 지망하는 취준생입니다</h3>
 
 
-- 🔭 I’m currently working on [스프링부트 SNS 프로젝트](https://github.com/LegdayDev/SNS-Photogram)
-- 🔭 I’m currently working on [축구선수 및 팀 관리 프로젝트](https://github.com/LegdayDev/football)
-- 🌱 I’m currently learning **JPA(Java Persistence Api), Spring Security , Junit**
+- 🔭 I completed [스프링부트 SNS 프로젝트](https://github.com/LegdayDev/SNS-Photogram)
+- 🔭 I’m currently working on [Football Manager 프로젝트](https://github.com/LegdayDev/Football-Manager)
+- 🌱 I’m currently learning **JPA, Spring Security , Junit5, Docker**
 
 - 📝 I regularly write articles on [https://velog.io/@legday](https://velog.io/@legday)
 
