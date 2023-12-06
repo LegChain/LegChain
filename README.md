@@ -3,7 +3,7 @@
 
 
 - 🔭 I completed [스프링부트 SNS 프로젝트](https://github.com/LegdayDev/SNS-Photogram)
-- 🔭 I’m currently working on [Football Manager 프로젝트](https://github.com/LegdayDev/Football-Manager)
+- 🔭 I’m currently working on [Bank 프로젝트]([https://github.com/LegdayDev/Football-Manager](https://github.com/LegdayDev/Junit_Bank))
 - 🌱 I’m currently learning **JPA, Spring Security , Junit5, Docker**
 
 - 📝 I regularly write articles on [https://velog.io/@legday](https://velog.io/@legday)
