@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm JaeYoung</h1>
-<h3 >自强不息 백엔드 개발자를 지망하는 취준생입니다</h3>
+<h3 >백엔드 개발자를 지망하는 취준생입니다</h3>
 
 
 - 🔭 I completed [스프링부트 SNS 프로젝트](https://github.com/LegdayDev/SNS-Photogram)
