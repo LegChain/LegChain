@@ -1,6 +1,7 @@
 
 
 <h1 align="left">Hi 👋, I'm JaeYoung</h1>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLegdayDev&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23D71717&title=hits&edge_flat=false"/></a>
 <h3 >백엔드 개발자를 지망하는 취준생입니다</h3>
 
 
@@ -11,7 +12,7 @@
 - 📝 I regularly write articles on [https://velog.io/@legday](https://velog.io/@legday)
 
 - 📫 How to reach me **legday.dev@gmail.com**
-
+<p><a href="https://solved.ac/chlwodud0327"><img alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwodud0327" /></a></p>
 
 <h1 align="left">🛠️Languages and Tools:</h1>
 <h3 align="left">Programming Languages</h3>
@@ -35,7 +36,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legdaydev&label=Profile%20views&color=0e75b6&style=flat" alt="legdaydev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legdaydev" alt="legdaydev" /></a> </p>
@@ -44,14 +44,6 @@
 </p>
 
 <h1 align="left">💻GitHub Analytics</h1>
-
-
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=legdaydev&show_icons=true&locale=en&layout=compact" alt="legdaydev" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legdaydev&show_icons=true&locale=en" alt="legdaydev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legdaydev&" alt="legdaydev" /></p>
