@@ -1,7 +1,7 @@
 
 
 <h1 align="left">Hi 👋, I'm JaeYoung</h1>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLegdayDev&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23D71717&title=hits&edge_flat=false"/></a>
+<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLegdayDev&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23D71717&title=hits&edge_flat=false"/></a> -->
 <h3 >백엔드 개발자를 지망하는 취준생입니다</h3>
 
 
