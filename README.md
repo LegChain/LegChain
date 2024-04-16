@@ -7,6 +7,7 @@
 
 - 🔭 I completed [스프링부트 SNS 프로젝트](https://github.com/LegdayDev/SNS-Photogram)
 - 🔭 I’m currently working on [Bank 프로젝트](https://github.com/LegdayDev/Junit_Bank) -> README.md 수정필요
+- 🔭 I’m currently working on [미니프로젝트: FMS](https://github.com/LegdayDev/FMS)
 - 🌱 I’m currently learning **JPA, Spring Security , Junit5, Docker**
 
 - 📝 I regularly write articles on [https://velog.io/@legday](https://velog.io/@legday)
