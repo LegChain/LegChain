@@ -4,18 +4,14 @@
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLegdayDev&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23D71717&title=hits&edge_flat=false"/></a> -->
 <h3 >백엔드 개발자를 지망하는 취준생입니다</h3>
 
-
 - 🔭 I completed [스프링부트 SNS 프로젝트](https://github.com/LegdayDev/SNS-Photogram)
-- 🔭 I’m currently working on [Bank 프로젝트](https://github.com/LegdayDev/Junit_Bank) -> README.md 수정필요
 - 🔭 I’m currently working on [미니프로젝트: FMS](https://github.com/LegdayDev/FMS)
-- 🌱 I’m currently learning **JPA, Spring Security , Junit5, Docker**
-
+- 🌱 I’m currently learning **MyBatis, JSP, Spring Framewordk , Junit5**
 - 📝 I regularly write articles on [https://velog.io/@legday](https://velog.io/@legday)
-
-- 📫 How to reach me **legday.dev@gmail.com**
+- 📫 How to reach me **chlwodud0327@naver.com**
 <p><a href="https://solved.ac/chlwodud0327"><img alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwodud0327" /></a></p>
 
-<h1 align="left">🛠️Languages and Tools:</h1>
+<h1 align="left">🛠️Languages and Tools</h1>
 <h3 align="left">Programming Languages</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -36,9 +32,6 @@
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=legdaydev&label=Profile%20views&color=0e75b6&style=flat" alt="legdaydev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legdaydev" alt="legdaydev" /></a> </p>
 
 <p align="left">
