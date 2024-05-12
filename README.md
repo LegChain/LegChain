@@ -8,8 +8,7 @@
 - 🔭 I’m currently working on [미니프로젝트: FMS](https://github.com/LegdayDev/FMS)
 - 🌱 I’m currently learning **MyBatis, JSP, Spring Framewordk , Junit5**
 - 📝 I regularly write articles on [https://velog.io/@legday](https://velog.io/@legday)
-- 📫 How to reach me **chlwodud0327@naver.com**
-<p><a href="https://solved.ac/chlwodud0327"><img alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwodud0327" /></a></p>
+- 📫 How to reach me **chlwodud0327@naver.com**<p><a href="https://solved.ac/chlwodud0327"><img alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwodud0327" /></a></p>
 
 <h1 align="left">🛠️Languages and Tools</h1>
 <h3 align="left">Programming Languages</h3>
