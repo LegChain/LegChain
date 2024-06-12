@@ -4,8 +4,8 @@
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLegdayDev&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23D71717&title=hits&edge_flat=false"/></a> -->
 <h3 >백엔드 개발자를 지망하는 취준생입니다</h3>
 
-- 🔭 I completed [스프링부트 SNS 프로젝트](https://github.com/LegdayDev/SNS-Photogram)
-- 🔭 I’m currently working on [미니프로젝트: FMS](https://github.com/LegdayDev/FMS)
+- 🔭 I completed [개인 프로젝트 : 스프링부트 SNS 프로젝트](https://github.com/LegdayDev/SNS-Photogram)
+- 🔭 I’m currently working on [팀프로젝트 : mo.zip](https://github.com/PKNU-JavaStudy/mozip_backend)
 - 🌱 I’m currently learning **MyBatis, JSP, Spring Framewordk , Junit5**
 - 📝 I regularly write articles on [https://velog.io/@legday](https://velog.io/@legday)
 - 📫 How to reach me **chlwodud0327@naver.com**<p><a href="https://solved.ac/chlwodud0327"><img alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwodud0327" /></a></p>
