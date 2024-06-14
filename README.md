@@ -6,7 +6,7 @@
 
 - 🔭 I completed [개인 프로젝트 : 스프링부트 SNS 프로젝트](https://github.com/LegdayDev/SNS-Photogram)
 - 🔭 I’m currently working on [팀프로젝트 : mo.zip](https://github.com/PKNU-JavaStudy/mozip_backend)
-- 🌱 I’m currently learning **SpringBoot, Thymeleaf, SpringSecurity, Junit5**
+- 🌱 I’m currently learning `SpringBoot`, `Thymeleaf`, `SpringSecurity`, `Junit5`
 - 📝 I regularly write articles on [https://velog.io/@legday](https://velog.io/@legday)
 - 📫 How to reach me **chlwodud0327@naver.com**<p><a href="https://solved.ac/chlwodud0327"><img alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwodud0327" /></a></p>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLegdayDev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
