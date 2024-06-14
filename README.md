@@ -18,7 +18,7 @@
 |<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | |<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">|  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> | <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">|
 |<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | |<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> || <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ&logoColor=white"> |
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/LegdayDev/LegdayDev/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="left">💻GitHub Analytics</h1>
 <p>
