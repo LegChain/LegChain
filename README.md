@@ -6,7 +6,6 @@
 
 - 🔭 I completed [개인 프로젝트 : 스프링부트 SNS 프로젝트](https://github.com/LegdayDev/SNS-Photogram)
 - 🔭 I completed [팀프로젝트 : mo.zip](https://github.com/PKNU-JavaStudy/mozip_backend)
-- 💡 This is  [My Portfolio](https://legday.notion.site/68f4798f231249a0aee7c5394ef95561?pvs=4)
 - 🌱 I’m currently learning `LLM`, `Chatbot`, `C`, `Network`
 - 📝 I regularly write articles on [Blog](https://velog.io/@legday)
 - 📫 How to reach me **chlwodud0327@naver.com**<p><a href="https://solved.ac/chlwodud0327"><img alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwodud0327" /></a></p>
