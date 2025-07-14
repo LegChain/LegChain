@@ -18,12 +18,12 @@
 |<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">|<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> |<img src="https://img.shields.io/badge/Chroma DB-C71A36?style=for-the-badge&logo=ChromaDB&logoColor=white">|<img src="https://img.shields.io/badge/Whisper-C71A36?style=for-the-badge&logo=Whisper&logoColor=white">|<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>|
 
 
-![snake gif](https://github.com/LegdayDev/LegdayDev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LegChain/LegChain/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="left">💻GitHub Analytics</h1>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=legdaydev&show_icons=true&locale=en&theme=tokyonight" alt="legdaydev" />&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=legdaydev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="legdaydev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LegChain&show_icons=true&locale=en&theme=tokyonight" alt="LegChain" />&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LegChain&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LegChain" />
 </p>
 
 
